@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: eureka-server
+  cloud:
+    config:
+      uri: http://124.172.178.206:8088
